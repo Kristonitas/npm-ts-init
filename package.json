@@ -8,6 +8,7 @@
   "scripts": {
     "start": "webpack --progress --env.development --env.nodemon",
     "start:prod": "webpack --progress --env.nodemon",
+    "build:dev": "webpack --progress --env.development",
     "build:prod": "webpack --progress",
     "analyse:dev": "webpack --progress --env.development --env.analyse",
     "analyse:prod": "webpack --progress --env.analyse",
