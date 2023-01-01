@@ -30,11 +30,11 @@
     "nodemon-webpack-plugin": "^4.0.8",
     "prettier": "1.18.2",
     "ts-jest": "^24.0.2",
-    "ts-loader": "^6.0.2",
+    "ts-loader": "^9.4.2",
     "typescript": "^3.5.1",
-    "webpack": "^4.33.0",
+    "webpack": "^5.75.0",
     "webpack-bundle-analyzer": "^3.3.2",
-    "webpack-cli": "^3.3.4"
+    "webpack-cli": "^5.0.1"
   },
   "prettier": {
     "printWidth": 180
